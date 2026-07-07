@@ -10,7 +10,7 @@ Users can access data from two main places:
 
 1. **[HuBMAP Data Portal](https://portal.hubmapconsortium.org/)**
 
-   Use this to search for public HuBMAP datasets and copy the HuBMAP dataset ID.
+   Use this to search for HuBMAP datasets that can be used in the notebook.
 
 2. **[FUSION Platform](https://fusionpub.rc.ufl.edu)**
 
