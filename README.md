@@ -142,7 +142,7 @@ To use the notebook inside a HuBMAP Workspace:
 2. Open the **Data Portal** and login to your account.
 3. Open **My Workspaces** and select the `Create New` button.
 4. Scroll through the Templates and select **FUSION++**.
-5. This will take you to the fusion_demo notebook.
+5. This will take you to the fusion_demo notebook, which will guide you through the workflow.
 
 ## Basic Workflow
 
@@ -167,9 +167,8 @@ After running the notebook, outputs may be organized like this:
 fusion_demo_notebooks/
 ├── fusion_demo.ipynb
 └── datasets/
-    └── HuBMAP_ID/
-        ├── image/
-        ├── .h5ad
+    └── Dataset_Name/
+        ├── ometiff-pyramids/
         ├── Segmented_FTU/
         ├── Aggregated_FTU/
         └── Files/
