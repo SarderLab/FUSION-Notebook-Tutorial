@@ -1,4 +1,4 @@
-## What is FUSION++?
+# What is FUSION++?
 
 FUSION++ is a Python-packaged version of FUSION in the JupyterHub interface for spatial multi-omics analysis with seamless HuBMAP data integration.
 
