@@ -14,11 +14,20 @@ Users can access data from two main places:
 
 2. **[FUSION Platform](https://fusionpub.rc.ufl.edu)**
 
-   Use this to view, manage, visualize, and process image and analyze data connected to the FUSION workflow.
+   Use this to access and download FUSION datasets that can be used in the notebook.
 
-## Accessing Data from FUSION
+## Accessing Data from HuBMAP Data Portal
 
-To access data from FUSION:
+To access data from HuBMAP:
+
+1. Go to [portal.hubmapconsortium.org](https://portal.hubmapconsortium.org/).
+2. Select **Datasets** from the navigation menu.
+3. Browse or search for the dataset or datasets you want to use and copy the HuBMAP_ID.
+ > For a more detailed explanation, refer to the sub-section 1.1 in Data Management Features in the Notebook.
+
+## Accessing Data from FUSION Platform
+
+To access data from FUSION Platform:
 
 1. Go to [fusionpub.rc.ufl.edu](https://fusionpub.rc.ufl.edu).
 2. Navigate to one of the following folders:
@@ -35,15 +44,6 @@ FUSION_Kidney_Visium → Visium → Visium FFPE
 
 These folders contain the FUSION datasets that can be used with the notebook.
  > For a more detailed explanation, refer to the sub-section 1.2 in Data Management Features in the Notebook.
-
-## Accessing Data from HuBMAP
-
-To access data from HuBMAP:
-
-1. Go to [portal.hubmapconsortium.org](https://portal.hubmapconsortium.org/).
-2. Select **Datasets** from the navigation menu.
-3. Browse or search for the dataset or datasets you want to use and copy the HuBMAP_ID.
- > For a more detailed explanation, refer to the sub-section 1.1 in Data Management Features in the Notebook.
 
 ## Running the Notebook on HiPerGator
 
